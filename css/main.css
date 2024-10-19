@@ -1574,7 +1574,7 @@ body {
 @keyframes fadeIn {
   to {
     opacity: 1; /* Sau khi animation kết thúc, đoạn text sẽ hiện */
-    top: 120px;
+    top: 108px;
   }
 }
 
@@ -1586,5 +1586,6 @@ body {
   
   .flowers {
     transform: scale(2);
+    bottom: -8px;
   }
 }
